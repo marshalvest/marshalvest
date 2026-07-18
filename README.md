@@ -225,15 +225,7 @@ We believe every investor deserves access to professional-grade financial tools 
 
 # 🚀 Getting Started
 
-| Step | Action |
-|------|--------|
-| **1️⃣** | 🌐 Visit the official website |
-| **2️⃣** | 👤 Create your investment account |
-| **3️⃣** | 🪪 Complete identity verification |
-| **4️⃣** | 💳 Fund your account |
-| **5️⃣** | 📈 Access the investment platform |
-| **6️⃣** | 🌍 Explore global financial markets |
-| **7️⃣** | 🚀 Start investing responsibly |
+> 🌐 **Visit Website** → 👤 **Create Account** → 🪪 **Verify Identity** → 💳 **Fund Account** → 📈 **Access Platform** → 🌍 **Explore Markets** → 🚀 **Start Investing**
 
 ---
 
