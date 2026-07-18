@@ -289,3 +289,271 @@ Part 2 includes:
 - 📌 Legal Disclaimer
 - 🔍 SEO Keywords
 - 💎 Premium Footer
+
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+<details>
+<summary><strong>How long do withdrawals take?</strong></summary>
+
+- **FIAT Withdrawals:** Typically **3–5 business days**
+- **Cryptocurrency Withdrawals:** Usually processed within **up to 3 hours**, depending on network conditions and verification requirements.
+
+</details>
+
+<details>
+<summary><strong>Which markets can I access?</strong></summary>
+
+Marshal Vest provides access to multiple financial markets including:
+
+- Forex
+- Cryptocurrencies
+- Stocks
+- Commodities
+- CFDs
+- Global Indices
+
+</details>
+
+<details>
+<summary><strong>What payment methods are supported?</strong></summary>
+
+Clients may fund their accounts using:
+
+- Credit / Debit Cards
+- Bank Wire Transfers
+- Cryptocurrency Transfers
+
+Additional payment methods may become available over time.
+
+</details>
+
+<details>
+<summary><strong>Are my personal details secure?</strong></summary>
+
+Yes.
+
+Marshal Vest utilizes modern security technologies, encrypted communication, and internal security protocols designed to protect client information and account activity.
+
+</details>
+
+<details>
+<summary><strong>What documents are required for verification?</strong></summary>
+
+Depending on your account level, verification may include:
+
+- Government-issued ID
+- Proof of Address
+- Declaration of Deposit (DOD)
+- Additional compliance documentation where required
+
+</details>
+
+<details>
+<summary><strong>Can I close my account?</strong></summary>
+
+Yes.
+
+Clients may request account closure in accordance with applicable company policies and compliance procedures.
+
+</details>
+
+<details>
+<summary><strong>Why is identity verification required?</strong></summary>
+
+Identity verification helps protect clients while supporting Anti-Money Laundering (AML) regulations and Know Your Customer (KYC) compliance standards.
+
+</details>
+
+---
+
+# 🔐 Privacy Commitment
+
+Protecting client privacy is one of Marshal Vest's highest priorities.
+
+Our platform utilizes modern security measures designed to help safeguard personal information and maintain the confidentiality of client data.
+
+### Privacy Principles
+
+- 🔒 Encrypted Communications
+- 🛡 Secure Data Storage
+- 👤 Confidential Client Information
+- 📜 Responsible Data Processing
+- ⚖ Compliance-Oriented Procedures
+
+Marshal Vest is committed to maintaining responsible privacy practices while complying with applicable legal and regulatory obligations.
+
+---
+
+# 🪪 Know Your Customer (KYC)
+
+Marshal Vest maintains Know Your Customer (KYC) procedures designed to support regulatory compliance and client protection.
+
+### KYC Objectives
+
+- Customer Identity Verification
+- Account Security
+- Fraud Prevention
+- Regulatory Compliance
+- Risk Assessment
+- Record Maintenance
+
+Verification requirements may vary depending on account type, jurisdiction, and applicable regulations.
+
+---
+
+# 📜 Anti-Money Laundering (AML)
+
+Marshal Vest supports international efforts to combat financial crime through Anti-Money Laundering (AML) practices.
+
+### AML Measures
+
+- Identity Verification
+- Transaction Monitoring
+- Suspicious Activity Detection
+- Compliance Screening
+- Record Keeping
+- Risk-Based Client Assessment
+
+Our AML framework is designed to promote transparency while protecting the integrity of our financial services.
+
+---
+
+# 💳 Deposits & Withdrawals
+
+Marshal Vest aims to provide secure and efficient funding options while maintaining compliance with applicable financial regulations.
+
+### Deposit Methods
+
+- Credit & Debit Cards
+- Bank Wire Transfer
+- Cryptocurrency Transfer
+
+### Withdrawal Process
+
+- Verification may be required before withdrawals are approved.
+- Withdrawals are generally returned to the original funding source whenever applicable.
+- Processing times vary depending on payment method and banking procedures.
+
+### Fund Security
+
+- Secure Payment Infrastructure
+- Compliance-Based Verification
+- Transaction Monitoring
+- Client Protection Measures
+
+---
+
+# ⚠️ Risk Disclosure
+
+Trading and investing in financial markets involve significant risk and may not be suitable for every investor.
+
+Market prices can fluctuate rapidly, and investors may experience partial or total loss of invested capital.
+
+Before engaging in trading activities, clients should carefully evaluate:
+
+- Financial objectives
+- Investment experience
+- Risk tolerance
+- Market conditions
+
+Marshal Vest encourages responsible investing and informed decision-making.
+
+Nothing contained in this repository should be interpreted as financial, investment, legal, or tax advice.
+
+---
+
+# 📞 Contact Information
+
+| Information | Details |
+|-------------|----------|
+| 🌍 Company | Marshal Vest |
+| 📍 Address | Bahnhofstrasse 65, 8001 Zürich, Switzerland |
+| ☎ Phone | +41 22 505 6524 |
+| 📧 Support | support@marshalvest.com |
+| 🌐 Website | https://marshalvest.com |
+| 💻 GitHub | https://github.com/marshalvest |
+
+---
+
+# 🌐 Official Links
+
+| Platform | Link |
+|----------|------|
+| 🌍 Official Website | https://marshalvest.com |
+| 💻 GitHub Organization | https://github.com/marshalvest |
+
+---
+
+# 🏢 Corporate Commitment
+
+Marshal Vest is committed to delivering secure, transparent, and technology-driven investment services while maintaining high standards of operational integrity, client protection, and regulatory awareness.
+
+Our focus remains on empowering investors through innovation, professional infrastructure, and responsible financial practices.
+
+---
+
+# 📌 Legal Disclaimer
+
+The information contained in this repository is provided for informational purposes only.
+
+Nothing contained herein constitutes financial, investment, legal, accounting, or tax advice.
+
+Investment decisions should always be made independently and, where appropriate, with assistance from qualified financial professionals.
+
+Marshal Vest does not guarantee investment performance or future financial results.
+
+---
+
+# ⚠️ High Risk Warning
+
+Trading leveraged financial products, including Forex, CFDs, cryptocurrencies, commodities, and other financial instruments, involves substantial risk.
+
+Past performance is not indicative of future results.
+
+Invest only funds that you can afford to lose and carefully assess your investment objectives before participating in financial markets.
+
+---
+
+# 🔍 SEO Keywords
+
+Multi-Asset Investing • Investment Platform • Global Investment Platform • Secure Investing • Online Investment Platform • Forex Trading • Cryptocurrency Trading • CFD Trading • Stock Investing • Commodities Trading • Portfolio Management • Wealth Management • Financial Markets • Investment Technology • Trading Infrastructure • Professional Trading Platform • Risk Management • Financial Solutions • Digital Investment Platform • Global Financial Services • Switzerland Investment Platform
+
+---
+
+# 💎 Repository Overview
+
+This repository represents the official GitHub organization for **Marshal Vest**.
+
+Here you may find resources, documentation, technical information, and other materials related to our products, services, and investment ecosystem.
+
+---
+
+<div align="center">
+
+# ⚜️ Marshal Vest
+
+### Secure Multi-Asset Investing Platform
+
+**Invest with Confidence • Built on Trust • Driven by Innovation**
+
+---
+
+🌍 Switzerland
+
+💼 Multi-Asset Investing
+
+🔐 Secure Infrastructure
+
+📈 Global Financial Markets
+
+---
+
+### Empowering Investors Through Technology & Trust
+
+**© Marshal Vest. All Rights Reserved.**
+
+</div>
