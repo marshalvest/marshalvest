@@ -24,20 +24,12 @@ Discover Global Investment Opportunities with Confidence
 ---
 
 <p align="center">
-
-
-![Website](https://img.shields.io/badge/Website-marshalvest.com-black?style=for-the-badge)
-
-![Investment](https://img.shields.io/badge/Multi--Asset-Investing-gold?style=for-the-badge)
-
-![Forex](https://img.shields.io/badge/Forex-Trading-success?style=for-the-badge)
-
-![Crypto](https://img.shields.io/badge/Crypto-Markets-orange?style=for-the-badge)
-
-![Stocks](https://img.shields.io/badge/Stocks-Global-blue?style=for-the-badge)
-
-![Security](https://img.shields.io/badge/Security-Protected-darkgreen?style=for-the-badge)
-
+  <a href="https://marshalvest.com"><img src="https://img.shields.io/badge/Website-marshalvest.com-black?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Multi--Asset-Investing-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forex-Trading-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Crypto-Markets-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stocks-Global-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-Protected-darkgreen?style=for-the-badge" />
 </p>
 
 ---
