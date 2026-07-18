@@ -25,7 +25,6 @@ Discover Global Investment Opportunities with Confidence
 
 <p align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=marshalvest&label=Profile%20Views&color=C9A227&style=for-the-badge)
 
 ![Website](https://img.shields.io/badge/Website-marshalvest.com-black?style=for-the-badge)
 
