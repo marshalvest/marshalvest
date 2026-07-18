@@ -225,35 +225,21 @@ We believe every investor deserves access to professional-grade financial tools 
 
 # 🚀 Getting Started
 
-Start your investment journey in just a few simple steps.
-
-### Step 1
-
-Visit the official website.
-
-### Step 2
-
-Create your investment account.
-
-### Step 3
-
-Complete account verification.
-
-### Step 4
-
-Fund your account.
-
-### Step 5
-
-Access the investment platform.
-
-### Step 6
-
-Explore global financial markets.
-
-### Step 7
-
-Manage your investments responsibly.
+```text
+🌐 Visit Website
+      ↓
+👤 Create Account
+      ↓
+🪪 Verify Identity
+      ↓
+💳 Fund Account
+      ↓
+📈 Access Platform
+      ↓
+🌍 Explore Markets
+      ↓
+🚀 Start Investing
+```
 
 ---
 
