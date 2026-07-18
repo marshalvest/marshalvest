@@ -225,8 +225,21 @@ We believe every investor deserves access to professional-grade financial tools 
 
 # 🚀 Getting Started
 
-> 🌐 **Visit Website** → 👤 **Create Account** → 🪪 **Verify Identity** → 💳 **Fund Account** → 📈 **Access Platform** → 🌍 **Explore Markets** → 🚀 **Start Investing**
-
+```text
+🌐 Visit Website
+      ↓
+👤 Create Account
+      ↓
+🪪 Verify Identity
+      ↓
+💳 Fund Account
+      ↓
+📈 Access Platform
+      ↓
+🌍 Explore Markets
+      ↓
+🚀 Start Investing
+```
 ---
 
 # 📈 Built for Modern Investors
